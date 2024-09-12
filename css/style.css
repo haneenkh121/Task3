@@ -1,0 +1,28 @@
+.header{
+    text-align: center;
+    p{
+        color: darkgray;
+        font-style: italic;
+    }
+}
+.A{
+    p{
+        color: darkgray;
+    }
+}
+.B{
+    text-align: center;
+    p{
+        color: darkgray;
+    }
+}
+.C{
+    p{
+        color: darkgray;
+    }
+}
+.footer{
+    text-align: center;
+    color: darkgray;
+}
+
